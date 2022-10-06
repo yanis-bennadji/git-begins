@@ -5,3 +5,6 @@ git commit -m "nom du fichier"
 git push
 
 git pull
+
+git branch "nom de la branche"
+git checkout
