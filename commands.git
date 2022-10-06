@@ -1,0 +1,6 @@
+git clone
+
+git add --all
+git commit -m "nom du fichier"
+git push
+
